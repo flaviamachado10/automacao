@@ -1,0 +1,8 @@
+2026/11/11-16:17:02.501 1884 Creating DB C:\Users\flavi\Documents\Automacao\chrome_perfil_excel\Default\Local Storage\leveldb since it was missing.
+2026/11/11-16:17:02.543 1884 Reusing MANIFEST C:\Users\flavi\Documents\Automacao\chrome_perfil_excel\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/11-16:17:29.283 3118 Level-0 table #5: started
+2026/11/11-16:17:29.303 3118 Level-0 table #5: 125827 bytes OK
+2026/11/11-16:17:29.310 3118 Delete type=0 #3
+2026/11/11-16:18:02.574 3118 Level-0 table #7: started
+2026/11/11-16:18:02.592 3118 Level-0 table #7: 22339 bytes OK
+2026/11/11-16:18:02.598 3118 Delete type=0 #4
